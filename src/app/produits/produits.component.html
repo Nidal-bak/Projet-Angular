@@ -1,0 +1,10 @@
+
+<ul>
+  <div *ngFor= "let p of produits">
+    <li *ngIf= "p.qte > 0" >
+
+    {{p.nom}}: {{p.qte}}
+  </li>
+
+  </div>
+</ul>

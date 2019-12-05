@@ -1,0 +1,11 @@
+[
+	{"email": "claire.deluxe@mailserver.fr",
+	 "produits": [{"nom":"caféine", "Marque":"McCafé", "Quantité": "12"} 
+	]
+},
+
+    {"email": "jessica.nett@mailserver.fr", 
+     "produits": [{"nom":"Quercétine", "Marque":"QC", "Quantité": "5"} 
+	]
+}
+]
